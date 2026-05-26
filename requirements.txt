@@ -1,0 +1,7 @@
+torch
+numpy
+sentencepiece
+tqdm
+datasets
+transformers
+accelerate
